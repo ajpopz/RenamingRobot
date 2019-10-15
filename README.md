@@ -1,4 +1,3 @@
-## [AnyDLBot](https://telegram.dog/AnyDLBot)
 ---
 
 An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
@@ -9,10 +8,6 @@ An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 * [Yoily](https://telegram.dog/YoilyL) for his [UploaditBot](https://telegram.dog/UploaditBot)
 
 ### Installation
-
-#### The Easiest Way
-
-**upgrade** your subscription for [@AnyDLBot](https://telegram.dog/AnyDLBot) without having to run anything on your own
 
 #### The Easy Way
 

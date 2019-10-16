@@ -33,17 +33,18 @@ URL | filename | username | password"""
 Telegram ID: <code>{}</code>
 Plan name: <a href='https://t.me/SpEcHlDe/599'>{}</a>
 Expires on: {}"""
-    HELP_USER = """There are multiple things I can do:
-👉 <a href="https://t.me/SpEcHlDe/608">All Supported Video / File Formats, with custom file name and custom thumbnail support</a>
-👉 <a href="https://t.me/SpEcHlDe/609">Upload as file from any HTTP link, with custom thumbnail support</a>
-👉 <a href="https://telegram.dog/AnyDLBot">Convert To Streamable Video, any Telegram file</a>
-👉 <a href="https://telegram.dog/AnyDLBot">Convert To Telegram Audio, the media sent as Telegram Documents</a>
-👉 <a href="https://t.me/SpEcHlDe/610">ReName Telegram files, with custom thumbnail support</a>
-👉 <a href="https://t.me/SpEcHlDe/625">Generate Custom Thumbnail by sending two photos in a Media Album</a>
-👉 <a href="https://t.me/SpEcHlDe/653">Trim large videos</a>, and <a href="https://t.me/SpEcHlDe/652">Take Screenshots</a> of Telegram media files.
-👉 <a href="https://t.me/SpEcHlDe/657">Extract compressed Telegram media</a>
-👉 <a href="https://t.me/SpEcHlDe/660">Get a Telegram sticker as a Telegram downloadable media</a>
---------
+    HELP_USER = """ I can Upload,Download,Rename,Unzip TELEGRAM files: 
+ 1.If you want to upload file by url and rename filename then please follow this format  url|filename ,Example: http://domain.com/file.apk | clashofclans.apk 
+2.If you want generate external link for telegram files,Send your file and reply /getlink command to it , so that you can download the file using External download manager, like IDM,ADM etc. 
+ 3.You can rename any Telegram Document, using this bot!Just send a file and reply the new file name to it. 
+ 4.This bot currently support all direct file urls ,Instagram,Youtube,openload and Google drive urls! 
+ 5.For UNZIP and Extract ZIP files, send zip file and reply /unzip command to it. 
+ 6.If you want to receive mp4(or mkv,avi) files as Telegram streamablee videos, Just send your mp4(or mkv,avi) file URL (Don't provide filename). 
+ 7.For converting Telegram mp4(or mkv,avi) files to telegram  videos with stream support, Firs send your mp4(or mkv,avi) file to the bot then reply /convert2video command to it! 
+
+ If you still have questions or problem contact us @RenamingBot
+
+
 Send /me to know current plan details"""
     REPLY_TO_DOC_GET_LINK = "Reply to a Telegram media to get High Speed Direct Download Link"
     REPLY_TO_DOC_FOR_C2V = "Reply to a Telegram media to convert"

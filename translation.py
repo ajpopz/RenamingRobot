@@ -1,7 +1,10 @@
 class Translation(object):
-    START_TEXT = """This is an Bot that Made By Inspiring From Other Bots
+    START_TEXT = """Hi. Thank You for using me.
+/help to know how to use me
+TL;DR, Please send a direct (video) link, and I will try to upload on Telegram.
+© @AnyDLBot
+Subscribe @SpEcHlDe if you 💔 using this bot."""
 
-© @RenamingRobot"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "This is an @RenamingRobot clone created using the Open Source <a href='https://github.com/SpEcHiDe/AnyDLBot'>code</a>. \nStart @AnyDLBot to know Paid Plans!"

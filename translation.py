@@ -1,9 +1,8 @@
 class Translation(object):
     START_TEXT = """Hi. Thank You for using me.
 /help to know how to use me
-TL;DR, Please send a direct (video) link, and I will try to upload on Telegram.
-© @AnyDLBot
-Subscribe @SpEcHlDe if you 💔 using this bot."""
+\nPlease send a direct (video) link, and I will try to upload on Telegram.
+You can Contribute to me If you ❤️ this Bot """
 
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
@@ -16,7 +15,7 @@ URL | filename | username | password"""
     UPLOAD_START = "Trying to Upload 📤"
     RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (50MB). Neverthless, trying to upload."
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.5GB due to Telegram API limitations."
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "Please rate me if you find me useful. https://t.me/tlgrmcbot?start=anydl_bot-bot"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "Please Contribute to my works if You can"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds 💪.  \nUploaded in {} seconds 💪."
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
     NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}. Free Users can only upload: {}\nPlease /upgrade your subscription.\nIf you think this is a bug, please contact <a href='https://telegram.dog/ThankTelegram'>@SpEcHlDe</a>"
@@ -26,12 +25,12 @@ URL | filename | username | password"""
     SAVED_RECVD_DOC_FILE = "Document Downloaded Successfully 💪."
     CUSTOM_CAPTION_UL_FILE = " "
     NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found."
-    NO_VOID_FORMAT_FOUND = "no-one gonna help you\n<b>YouTubeDL</b> said: {}"
+    NO_VOID_FORMAT_FOUND = "There is An error in the URL you have given to me 🤕. if you think this is a bug you can report it @IamJithendra \n<b>YouTubeDL</b> said: {}"
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
     CURENT_PLAN_DETAILS = """Current plan details
 --------
 Telegram ID: <code>{}</code>
-Plan name: <a href='https://t.me/SpEcHlDe/599'>{}</a>
+Plan name: <a href='https://t.me/'>{}</a>  
 Expires on: {}"""
     HELP_USER = """ I can Upload,Download,Rename,Unzip TELEGRAM files: 
  1.If you want to upload file by url and rename filename then please follow this format  url|filename ,Example: http://domain.com/file.apk | clashofclans.apk 

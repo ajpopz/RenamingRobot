@@ -19,14 +19,14 @@ URL | filename | username | password"""
     AFTER_SUCCESSFUL_UPLOAD_MSG = "You can Contribute to me If you ❤️ this Bot which will help us to improve our hosting plans"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds 💪.  \nUploaded in {} seconds 💪."
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
-    NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}. Free Users can only upload: {}\nPlease /upgrade your subscription.\nIf you think this is a bug, please contact <a href='https://telegram.dog/'>@IamJithendra</a>"
+    NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}. Free Users can only upload: {}\nPlease /upgrade your subscription.\nIf you think this is a bug, please contact <a href='https://telegram.dog/ReportBugsBot'>@ReportBugsBot</a>"
     SAVED_CUSTOM_THUMB_NAIL = "Custom video / file thumbnail saved. This image will be used in the video / file."
     DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom thumbnail cleared succesfully."
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "✅ Media cleared succesfully."
     SAVED_RECVD_DOC_FILE = "Document Downloaded Successfully 💪."
     CUSTOM_CAPTION_UL_FILE = " "
     NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found."
-    NO_VOID_FORMAT_FOUND = "There is An error in the URL you have given to me 🤕. if you think this is a bug you can report it @IamJithendra \n<b>YouTubeDL</b> said: {}"
+    NO_VOID_FORMAT_FOUND = "There is An error in the URL you have given to me 🤕. if you think this is a bug you can report it @ReportBugsBot \n<b>YouTubeDL</b> said: {}"
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
     CURENT_PLAN_DETAILS = """Current plan details
 --------
@@ -42,7 +42,7 @@ Expires on: {}"""
  6.If you want to receive mp4(or mkv,avi) files as Telegram streamablee videos, Just send your mp4(or mkv,avi) file URL (Don't provide filename). 
  7.For converting Telegram mp4(or mkv,avi) files to telegram  videos with stream support, Firs send your mp4(or mkv,avi) file to the bot then reply /convert2video command to it! 
 
- If you still have questions or problem contact us @IamJithendra
+ If you still have questions or problem contact us at @ReportBugsBot
 
 
 Send /myplan to know current plan details"""
@@ -65,7 +65,7 @@ Send /myplan to know current plan details"""
     EXTRACT_ZIP_INTRO_ONE = "Send a compressed file first, Then reply /unzip command to the file."
     EXTRACT_ZIP_INTRO_THREE = "Analyzing received file. ⚠️ This might take some time. Please be patient. "
     UNZIP_SUPPORTED_EXTENSIONS = ("zip", "rar")
-    EXTRACT_ZIP_ERRS_OCCURED = "Sorry. Errors occurred while processing compressed file. Please check everything again twice, and if the issue persists, report this to <a href='https://telegram.dog/'>@IamJithendra</a>"
+    EXTRACT_ZIP_ERRS_OCCURED = "Sorry. Errors occurred while processing compressed file. Please check everything again twice, and if the issue persists, report this to <a href='https://telegram.dog/'>@ReportBugsBot</a>"
     EXTRACT_ZIP_STEP_TWO = """Select file_name to upload from the below options.
 You can use /rename command after receiving file to rename it with custom thumbnail support."""
     CANCEL_STR = "Process Cancelled"
